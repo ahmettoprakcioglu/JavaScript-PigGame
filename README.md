@@ -2,11 +2,11 @@
 
 A classic two-player dice game implemented in JavaScript, HTML, and CSS.
 
-## 📝 Description
+## Description
 
 Pig Game is an exciting dice game where two players compete to reach 100 points first. The game combines luck and strategy, making it both entertaining and challenging.
 
-## 🎮 Game Rules
+## Game Rules
 
 1. The game has 2 players, playing in rounds
 2. In each turn, a player rolls a dice as many times as they wish
@@ -15,7 +15,7 @@ Pig Game is an exciting dice game where two players compete to reach 100 points 
 5. The player can choose to 'Hold', which means their CURRENT score gets added to their TOTAL score
 6. The first player to reach 100 points on TOTAL score wins the game
 
-## 🚀 Features
+## Features
 
 - Interactive UI with smooth animations
 - Real-time score tracking
@@ -24,14 +24,14 @@ Pig Game is an exciting dice game where two players compete to reach 100 points 
 - Winner highlighting
 - New game functionality
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - DOM Manipulation
 
-## 🎯 How to Play
+## How to Play
 
 1. Open `index.html` in your web browser
 2. Click 'Roll dice' to start playing
@@ -39,26 +39,26 @@ Pig Game is an exciting dice game where two players compete to reach 100 points 
 4. Click 'Hold' to save your current points
 5. First player to reach 100 points wins!
 
-## 🎨 Game Controls
+## Game Controls
 
-- 🎲 **Roll Dice**: Roll the dice and add to current score
-- 📥 **Hold**: Add current score to total score and switch players
-- 🔄 **New Game**: Start a fresh game
+- **Roll Dice**: Roll the dice and add to current score
+- **Hold**: Add current score to total score and switch players
+- **New Game**: Start a fresh game
 
-## 🔧 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/JavaScript-PigGame.git
+git clone https://github.com/ahmettoprakcioglu/JavaScript-PigGame.git
 ```
 2. Navigate to the project directory
 3. Open `index.html` in your browser
 
-## 🎥 Game Preview
+## Game Preview
 
 ![Pig Game Flowchart](pig-game-flowchart.png)
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Add multiplayer support
 - Implement different game modes
